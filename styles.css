@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?Zen+Dots?category=Display);
+
+body{
+    background-color: #020008;
+    font-family: 'Zen Dots';
+    color: #7899BF;
+}
+
+.container{
+    margin-top: none;
+    margin-bottom: auto;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-size: 5rem;
+    font-weight: 400;
+}
+
+.h2{
+    font-size: 3rem;
+    font-weight: ;
+}
