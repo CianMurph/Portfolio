@@ -1,2 +1,18 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+
+
+
+</script>
+
+
+<style lang="postcss">
+    :global(html) {
+      background-color: rgb(20, 20, 20);
+    }
+  </style>
+
+<div class="index container">
+  <Scroller />
+</div>
+
+
