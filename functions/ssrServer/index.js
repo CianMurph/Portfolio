@@ -17125,8 +17125,8 @@ var init__2 = __esm({
     init_shims();
     index2 = 1;
     component2 = async () => (await Promise.resolve().then(() => (init_error_svelte(), error_svelte_exports))).default;
-    file2 = "_app/immutable/entry/error.svelte.b6754146.js";
-    imports2 = ["_app/immutable/entry/error.svelte.b6754146.js", "_app/immutable/chunks/index.2beba515.js", "_app/immutable/chunks/singletons.9b82cf6b.js"];
+    file2 = "_app/immutable/entry/error.svelte.0d9ad384.js";
+    imports2 = ["_app/immutable/entry/error.svelte.0d9ad384.js", "_app/immutable/chunks/index.2beba515.js", "_app/immutable/chunks/singletons.1ae66140.js"];
     stylesheets2 = [];
     fonts2 = [];
   }
@@ -17916,7 +17916,7 @@ var options = {
 		<div class="error">
 			<span class="status">` + status + '</span>\n			<div class="message">\n				<h1>' + message + "</h1>\n			</div>\n		</div>\n	</body>\n</html>\n"
   },
-  version_hash: "1op5v2p"
+  version_hash: "ev0073"
 };
 function get_hooks() {
   return {};
@@ -20690,7 +20690,7 @@ var manifest = {
   assets: /* @__PURE__ */ new Set(["bg.jpg", "dots/0.svg", "dots/1.svg", "dots/2.svg", "dots/3.svg", "dots/4.svg", "dots/5.svg", "favicon.png", "me-removebg-preview.png", "me.jpeg", "skills/aws.png", "skills/aws.svg", "skills/checklist.png", "skills/cpp.png", "skills/css.png", "skills/customer.png", "skills/ecom.png", "skills/eth.svg", "skills/figma.png", "skills/idea.png", "skills/js.png", "skills/leadership.png", "skills/nodeJS.png", "skills/pandas.svg", "skills/python.png", "skills/react.png", "skills/sql.png", "social/github.svg", "social/linkedIn.svg"]),
   mimeTypes: { ".jpg": "image/jpeg", ".svg": "image/svg+xml", ".png": "image/png", ".jpeg": "image/jpeg" },
   _: {
-    client: { "start": { "file": "_app/immutable/entry/start.1de63831.js", "imports": ["_app/immutable/entry/start.1de63831.js", "_app/immutable/chunks/index.2beba515.js", "_app/immutable/chunks/singletons.9b82cf6b.js"], "stylesheets": [], "fonts": [] }, "app": { "file": "_app/immutable/entry/app.0326bc95.js", "imports": ["_app/immutable/entry/app.0326bc95.js", "_app/immutable/chunks/index.2beba515.js"], "stylesheets": [], "fonts": [] } },
+    client: { "start": { "file": "_app/immutable/entry/start.a1e3062e.js", "imports": ["_app/immutable/entry/start.a1e3062e.js", "_app/immutable/chunks/index.2beba515.js", "_app/immutable/chunks/singletons.1ae66140.js"], "stylesheets": [], "fonts": [] }, "app": { "file": "_app/immutable/entry/app.6e6a2089.js", "imports": ["_app/immutable/entry/app.6e6a2089.js", "_app/immutable/chunks/index.2beba515.js"], "stylesheets": [], "fonts": [] } },
     nodes: [
       () => Promise.resolve().then(() => (init__(), __exports)),
       () => Promise.resolve().then(() => (init__2(), __exports2)),
