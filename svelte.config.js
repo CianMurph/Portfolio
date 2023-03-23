@@ -1,5 +1,6 @@
 import preprocess from 'svelte-preprocess';
 import adapter from '@sveltejs/adapter-auto';
+import firebase from "svelte-adapter-firebase";
 import { vitePreprocess } from '@sveltejs/kit/vite';
 
 
